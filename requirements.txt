@@ -1,0 +1,8 @@
+spotipy
+matplotlib
+polarplot
+songrecommendations
+seaborn
+numpy
+pandas
+Image
